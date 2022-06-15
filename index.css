@@ -1,0 +1,18 @@
+.cuerpo-index{
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.tablero{
+    padding: 30px;
+}
+
+.botones{
+    display: flex;
+    border-radius: 3px;
+    font-size: 20px;
+    justify-content:space-evenly;
+    margin: 20px;
+}
+
